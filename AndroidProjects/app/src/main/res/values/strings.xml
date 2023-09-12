@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewBinding</string>
+    <string name="person_name">Ethan Geno</string>
+    <string name="career">Business man</string>
+    <string name="button">Next Person</string>
+    <string name="todo">TODO</string>
+    <!--    <string name="vehicle_name">Vehicle Name</string>-->
+</resources>
